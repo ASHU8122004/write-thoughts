@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className={styles.wrapper}>
       <Head>
-        <title>AK | Ashleel</title>
+        <title>AK | WriteThoughts</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Header />

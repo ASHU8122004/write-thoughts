@@ -32,7 +32,7 @@ const Post = () => {
   return (
     <>
       <Head>
-        <title>AK | Ashleel</title>
+        <title>AK | WriteThoughts</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main className={styles.content}>
