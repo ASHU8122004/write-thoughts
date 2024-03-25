@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { useContext } from 'react'
-import { MediumContext } from '../context/MediumContext'
+import { MediumContext } from '../context/WriteCon'
 import { AiOutlineSearch } from 'react-icons/ai'
 import { MdMarkEmailUnread } from 'react-icons/md'
 import Logo1 from '../static/juju.jpg'

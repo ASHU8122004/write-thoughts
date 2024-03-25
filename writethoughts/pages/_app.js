@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import { MediumProvider } from '../context/MediumContext'
+import { MediumProvider } from '../context/WriteCon'
 
 function MyApp({ Component, pageProps }) {
   return (
