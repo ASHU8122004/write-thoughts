@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { useState, useContext, useEffect } from 'react'
-import { MediumContext } from '../../context/MediumContext'
+import { MediumContext } from '../../context/WriteCon'
 import ReadersNav from '../../components/ReadersNav'
 import ArticleMain from '../../components/ArticleMain'
 import Recommendations from '../../components/Recommendations'

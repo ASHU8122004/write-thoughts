@@ -1,6 +1,6 @@
 import { useState, useContext } from 'react'
 import { useRouter } from 'next/router'
-import { MediumContext } from '../context/MediumContext'
+import { MediumContext } from '../context/WriteCon'
 import { collection, addDoc, serverTimestamp } from 'firebase/firestore'
 import { db } from '../firebase'
 

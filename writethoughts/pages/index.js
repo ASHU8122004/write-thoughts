@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { useContext } from 'react'
-import { MediumContext } from '../context/MediumContext'
+import { MediumContext } from '../context/WriteCon'
 import Header from '../components/Header'
 import Banner from '../components/Banner'
 import PostCard from '../components/PostCard'
