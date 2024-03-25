@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { useContext } from 'react'
-import { MediumContext } from '../context/MediumContext'
+import { MediumContext } from '../context/WriteCon'
 import Logo from '../static/akbanner.png'
 
 const styles = {
